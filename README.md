@@ -207,9 +207,8 @@ Six pinned repos was never enough. These are the ones worth your time:
 
 <sub>Pulled straight from the <a href="https://devopstechy.online/feed">devopstechy.online</a> RSS feed.</sub>
 
-<!-- BLOG-POST-LIST:START -->
-- [How to Securely Bind DNS to a Private IP Using Cloudflare Tunnels (2025 Guide)](https://devopstechy.online/bind-dns-to-a-private-ip-using-cloudflare-tunnels/) <sub>(June 30, 2025)</sub>
-- [How to Set Up an NFS Server on Linux: Complete Guide for Beginners (2025)](https://devopstechy.online/how-to-set-up-an-nfs-server-on-linux-complete-guide-for-beginners-2025/) <sub>(June 12, 2025)</sub>
+<!-- BLOG-POST-LIST:START -->- [How to Securely Bind DNS to a Private IP Using Cloudflare Tunnels &lpar;2025 Guide&rpar;](https://devopstechy.online/bind-dns-to-a-private-ip-using-cloudflare-tunnels/) <sub>(June 30, 2025)</sub>
+- [How to Set Up an NFS Server on Linux: Complete Guide for Beginners &lpar;2025&rpar;](https://devopstechy.online/how-to-set-up-an-nfs-server-on-linux-complete-guide-for-beginners-2025/) <sub>(June 12, 2025)</sub>
 - [How to Mount an Amazon S3 Bucket on an EC2 Instance Running Ubuntu [2025 Guide]](https://devopstechy.online/mount-an-amazon-s3-bucket/) <sub>(June 4, 2025)</sub>
 - [Optimizing Git Cloning for Deployment](https://devopstechy.online/optimizing-git-deployment/) <sub>(May 28, 2025)</sub>
 - [Clean Up Git Repositories with BFG Repo-Cleaner – Complete Guide](https://devopstechy.online/clean-up-your-git-repository/) <sub>(May 23, 2025)</sub>
