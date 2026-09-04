@@ -1,0 +1,40 @@
+---
+# Pulls the newest posts from the devopstechy.online RSS feed into README.md.
+
+name: Blog Posts
+
+on:
+  schedule:
+    # every 6 hours
+    - cron: '45 */6 * * *'
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/blog-posts.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: blog-posts
+  cancel-in-progress: true
+
+jobs:
+  update:
+    name: Sync latest posts
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Pull RSS feed into README
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: 'https://devopstechy.online/feed'
+          max_post_count: 5
+          template: '- [$title]($url) <sub>($date)</sub>$newline'
+          date_format: 'mmmm d, yyyy'
+          commit_message: 'chore(readme): sync latest blog posts [skip ci]'
+          committer_username: 'github-actions[bot]'
+          committer_email: '41898282+github-actions[bot]@users.noreply.github.com'

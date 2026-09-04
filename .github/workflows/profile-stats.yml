@@ -1,0 +1,53 @@
+---
+# Rebuilds the "All Public Repositories" table in README.md from the GitHub API.
+
+name: Profile Stats
+
+on:
+  schedule:
+    # 04:15 UTC daily - off the hour to avoid GitHub's cron stampede
+    - cron: '15 4 * * *'
+  push:
+    branches: [main]
+    paths:
+      - '.github/scripts/update_repos_table.py'
+      - '.github/workflows/profile-stats.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-stats
+  cancel-in-progress: true
+
+jobs:
+  update:
+    name: Refresh repository table
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Regenerate repository table
+        env:
+          GITHUB_USER: ${{ github.repository_owner }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python .github/scripts/update_repos_table.py
+
+      - name: Commit changes
+        run: |
+          if git diff --quiet -- README.md; then
+            echo "No changes to commit."
+            exit 0
+          fi
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "chore(readme): refresh repository table [skip ci]"
+          git push

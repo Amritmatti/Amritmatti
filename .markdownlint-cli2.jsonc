@@ -1,0 +1,14 @@
+{
+  // Profile READMEs are badge-and-HTML heavy; keep the rules that catch real
+  // mistakes and drop the ones that fight the format.
+  "config": {
+    "MD013": false, // line length - badge URLs are long by nature
+    "MD033": false, // inline HTML - required for centred layout and <picture>
+    "MD041": false, // first line in file should be a top-level heading
+    "MD034": false, // bare URLs inside HTML comments
+    "MD024": { "siblings_only": true }
+  },
+  "ignores": [
+    "node_modules/**"
+  ]
+}
