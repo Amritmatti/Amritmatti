@@ -151,14 +151,15 @@ Six pinned repos was never enough. These are the ones worth your time:
 <!--START_SECTION:repos-->
 | Repository | Description | Language | Stars | Last Push |
 |:--|:--|:--|--:|:--|
-| [`linux-monitor`](https://github.com/Amritmatti/linux-monitor) | - | JavaScript | 0 | yesterday |
-| [`k8slearning`](https://github.com/Amritmatti/k8slearning) | - | Shell | 0 | 4 days ago |
-| [`aws-finops`](https://github.com/Amritmatti/aws-finops) | - | Python | 0 | 4 days ago |
-| [`docker-security-dashabord`](https://github.com/Amritmatti/docker-security-dashabord) | - | HTML | 0 | 4 days ago |
-| [`k8ssetup`](https://github.com/Amritmatti/k8ssetup) | - | Shell | 0 | 5 days ago |
-| [`k8s-in-punjabi`](https://github.com/Amritmatti/k8s-in-punjabi) | - | HTML | 0 | 8 days ago |
-| [`keda-kafka`](https://github.com/Amritmatti/keda-kafka) | - | Shell | 0 | 8 days ago |
-| [`keda-redis`](https://github.com/Amritmatti/keda-redis) | - | Shell | 0 | 9 days ago |
+| [`openshift`](https://github.com/Amritmatti/openshift) | - | JavaScript | 0 | today |
+| [`k8s-in-punjabi`](https://github.com/Amritmatti/k8s-in-punjabi) | - | HTML | 0 | today |
+| [`linux-monitor`](https://github.com/Amritmatti/linux-monitor) | - | JavaScript | 0 | 2 days ago |
+| [`k8slearning`](https://github.com/Amritmatti/k8slearning) | - | Shell | 0 | 5 days ago |
+| [`aws-finops`](https://github.com/Amritmatti/aws-finops) | - | Python | 0 | 5 days ago |
+| [`docker-security-dashabord`](https://github.com/Amritmatti/docker-security-dashabord) | - | HTML | 0 | 5 days ago |
+| [`k8ssetup`](https://github.com/Amritmatti/k8ssetup) | - | Shell | 0 | 6 days ago |
+| [`keda-kafka`](https://github.com/Amritmatti/keda-kafka) | - | Shell | 0 | 9 days ago |
+| [`keda-redis`](https://github.com/Amritmatti/keda-redis) | - | Shell | 0 | 10 days ago |
 | [`cassandra`](https://github.com/Amritmatti/cassandra) | - | - | 0 | Aug 2024 |
 | [`kafka`](https://github.com/Amritmatti/kafka) | - | - | 0 | Aug 2024 |
 | [`starter-kit-starters-creek`](https://github.com/Amritmatti/starter-kit-starters-creek) | - | - | 0 | Dec 2023 |
@@ -166,7 +167,7 @@ Six pinned repos was never enough. These are the ones worth your time:
 | [`opswork`](https://github.com/Amritmatti/opswork) | - | Ruby | 0 | Aug 2021 |
 | [`testlink`](https://github.com/Amritmatti/testlink) | Conteiner do Testlink | - | 0 | Jul 2018 |
 
-<sub><b>14</b> source repositories &middot; <b>0</b> stars &middot; <b>0</b> forks &middot; last refreshed 09 Sep 2026 08:59 UTC</sub>
+<sub><b>15</b> source repositories &middot; <b>0</b> stars &middot; <b>0</b> forks &middot; last refreshed 10 Sep 2026 08:58 UTC</sub>
 <!--END_SECTION:repos-->
 
 <div align="right"><sub><a href="https://github.com/Amritmatti?tab=repositories&type=source&sort=stargazers">Browse all repositories</a></sub></div>
