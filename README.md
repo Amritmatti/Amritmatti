@@ -151,19 +151,19 @@ Six pinned repos was never enough. These are the ones worth your time:
 <!--START_SECTION:repos-->
 | Repository | Description | Language | Stars | Last Push |
 |:--|:--|:--|--:|:--|
-| [`EKS-Prod`](https://github.com/Amritmatti/EKS-Prod) | - | HCL | 0 | 3 days ago |
-| [`ATS`](https://github.com/Amritmatti/ATS) | - | TypeScript | 0 | 9 days ago |
-| [`mcp`](https://github.com/Amritmatti/mcp) | - | Python | 0 | 13 days ago |
-| [`eks`](https://github.com/Amritmatti/eks) | - | HCL | 0 | 16 days ago |
-| [`k8sscratch`](https://github.com/Amritmatti/k8sscratch) | - | JavaScript | 0 | 17 days ago |
-| [`k8s-in-punjabi`](https://github.com/Amritmatti/k8s-in-punjabi) | - | HTML | 0 | 21 days ago |
-| [`video-generator`](https://github.com/Amritmatti/video-generator) | - | - | 0 | 21 days ago |
-| [`openshift`](https://github.com/Amritmatti/openshift) | - | JavaScript | 0 | 22 days ago |
-| [`linux-monitor`](https://github.com/Amritmatti/linux-monitor) | - | JavaScript | 0 | 24 days ago |
-| [`k8slearning`](https://github.com/Amritmatti/k8slearning) | - | Shell | 0 | 28 days ago |
-| [`aws-finops`](https://github.com/Amritmatti/aws-finops) | - | Python | 0 | 28 days ago |
-| [`docker-security-dashabord`](https://github.com/Amritmatti/docker-security-dashabord) | - | HTML | 0 | 28 days ago |
-| [`k8ssetup`](https://github.com/Amritmatti/k8ssetup) | - | Shell | 0 | 28 days ago |
+| [`EKS-Prod`](https://github.com/Amritmatti/EKS-Prod) | - | HCL | 0 | 4 days ago |
+| [`ATS`](https://github.com/Amritmatti/ATS) | - | TypeScript | 0 | 10 days ago |
+| [`mcp`](https://github.com/Amritmatti/mcp) | - | Python | 0 | 14 days ago |
+| [`eks`](https://github.com/Amritmatti/eks) | - | HCL | 0 | 17 days ago |
+| [`k8sscratch`](https://github.com/Amritmatti/k8sscratch) | - | JavaScript | 0 | 18 days ago |
+| [`k8s-in-punjabi`](https://github.com/Amritmatti/k8s-in-punjabi) | - | HTML | 0 | 22 days ago |
+| [`video-generator`](https://github.com/Amritmatti/video-generator) | - | - | 0 | 22 days ago |
+| [`openshift`](https://github.com/Amritmatti/openshift) | - | JavaScript | 0 | 23 days ago |
+| [`linux-monitor`](https://github.com/Amritmatti/linux-monitor) | - | JavaScript | 0 | 25 days ago |
+| [`k8slearning`](https://github.com/Amritmatti/k8slearning) | - | Shell | 0 | 29 days ago |
+| [`aws-finops`](https://github.com/Amritmatti/aws-finops) | - | Python | 0 | 29 days ago |
+| [`docker-security-dashabord`](https://github.com/Amritmatti/docker-security-dashabord) | - | HTML | 0 | 29 days ago |
+| [`k8ssetup`](https://github.com/Amritmatti/k8ssetup) | - | Shell | 0 | 29 days ago |
 | [`keda-kafka`](https://github.com/Amritmatti/keda-kafka) | - | Shell | 0 | 1 months ago |
 | [`keda-redis`](https://github.com/Amritmatti/keda-redis) | - | Shell | 0 | 1 months ago |
 | [`cassandra`](https://github.com/Amritmatti/cassandra) | - | - | 0 | Aug 2024 |
@@ -173,7 +173,7 @@ Six pinned repos was never enough. These are the ones worth your time:
 | [`opswork`](https://github.com/Amritmatti/opswork) | - | Ruby | 0 | Aug 2021 |
 | [`testlink`](https://github.com/Amritmatti/testlink) | Conteiner do Testlink | - | 0 | Jul 2018 |
 
-<sub><b>21</b> source repositories &middot; <b>0</b> stars &middot; <b>0</b> forks &middot; last refreshed 02 Oct 2026 10:32 UTC</sub>
+<sub><b>21</b> source repositories &middot; <b>0</b> stars &middot; <b>0</b> forks &middot; last refreshed 03 Oct 2026 09:53 UTC</sub>
 <!--END_SECTION:repos-->
 
 <div align="right"><sub><a href="https://github.com/Amritmatti?tab=repositories&type=source&sort=stargazers">Browse all repositories</a></sub></div>
