@@ -151,15 +151,15 @@ Six pinned repos was never enough. These are the ones worth your time:
 <!--START_SECTION:repos-->
 | Repository | Description | Language | Stars | Last Push |
 |:--|:--|:--|--:|:--|
-| [`EKS-Prod`](https://github.com/Amritmatti/EKS-Prod) | - | HCL | 0 | 5 days ago |
-| [`ATS`](https://github.com/Amritmatti/ATS) | - | TypeScript | 0 | 11 days ago |
-| [`mcp`](https://github.com/Amritmatti/mcp) | - | Python | 0 | 15 days ago |
-| [`eks`](https://github.com/Amritmatti/eks) | - | HCL | 0 | 18 days ago |
-| [`k8sscratch`](https://github.com/Amritmatti/k8sscratch) | - | JavaScript | 0 | 19 days ago |
-| [`k8s-in-punjabi`](https://github.com/Amritmatti/k8s-in-punjabi) | - | HTML | 0 | 23 days ago |
-| [`video-generator`](https://github.com/Amritmatti/video-generator) | - | - | 0 | 23 days ago |
-| [`openshift`](https://github.com/Amritmatti/openshift) | - | JavaScript | 0 | 24 days ago |
-| [`linux-monitor`](https://github.com/Amritmatti/linux-monitor) | - | JavaScript | 0 | 26 days ago |
+| [`EKS-Prod`](https://github.com/Amritmatti/EKS-Prod) | - | HCL | 0 | 6 days ago |
+| [`ATS`](https://github.com/Amritmatti/ATS) | - | TypeScript | 0 | 13 days ago |
+| [`mcp`](https://github.com/Amritmatti/mcp) | - | Python | 0 | 16 days ago |
+| [`eks`](https://github.com/Amritmatti/eks) | - | HCL | 0 | 19 days ago |
+| [`k8sscratch`](https://github.com/Amritmatti/k8sscratch) | - | JavaScript | 0 | 20 days ago |
+| [`k8s-in-punjabi`](https://github.com/Amritmatti/k8s-in-punjabi) | - | HTML | 0 | 24 days ago |
+| [`video-generator`](https://github.com/Amritmatti/video-generator) | - | - | 0 | 24 days ago |
+| [`openshift`](https://github.com/Amritmatti/openshift) | - | JavaScript | 0 | 25 days ago |
+| [`linux-monitor`](https://github.com/Amritmatti/linux-monitor) | - | JavaScript | 0 | 27 days ago |
 | [`k8slearning`](https://github.com/Amritmatti/k8slearning) | - | Shell | 0 | 1 months ago |
 | [`aws-finops`](https://github.com/Amritmatti/aws-finops) | - | Python | 0 | 1 months ago |
 | [`docker-security-dashabord`](https://github.com/Amritmatti/docker-security-dashabord) | - | HTML | 0 | 1 months ago |
@@ -173,7 +173,7 @@ Six pinned repos was never enough. These are the ones worth your time:
 | [`opswork`](https://github.com/Amritmatti/opswork) | - | Ruby | 0 | Aug 2021 |
 | [`testlink`](https://github.com/Amritmatti/testlink) | Conteiner do Testlink | - | 0 | Jul 2018 |
 
-<sub><b>21</b> source repositories &middot; <b>0</b> stars &middot; <b>0</b> forks &middot; last refreshed 04 Oct 2026 10:37 UTC</sub>
+<sub><b>21</b> source repositories &middot; <b>0</b> stars &middot; <b>0</b> forks &middot; last refreshed 05 Oct 2026 11:33 UTC</sub>
 <!--END_SECTION:repos-->
 
 <div align="right"><sub><a href="https://github.com/Amritmatti?tab=repositories&type=source&sort=stargazers">Browse all repositories</a></sub></div>
