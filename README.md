@@ -151,14 +151,14 @@ Six pinned repos was never enough. These are the ones worth your time:
 <!--START_SECTION:repos-->
 | Repository | Description | Language | Stars | Last Push |
 |:--|:--|:--|--:|:--|
-| [`EKS-Prod`](https://github.com/Amritmatti/EKS-Prod) | - | HCL | 0 | 10 days ago |
-| [`ATS`](https://github.com/Amritmatti/ATS) | - | TypeScript | 0 | 16 days ago |
-| [`mcp`](https://github.com/Amritmatti/mcp) | - | Python | 0 | 20 days ago |
-| [`eks`](https://github.com/Amritmatti/eks) | - | HCL | 0 | 23 days ago |
-| [`k8sscratch`](https://github.com/Amritmatti/k8sscratch) | - | JavaScript | 0 | 24 days ago |
-| [`k8s-in-punjabi`](https://github.com/Amritmatti/k8s-in-punjabi) | - | HTML | 0 | 28 days ago |
-| [`video-generator`](https://github.com/Amritmatti/video-generator) | - | - | 0 | 28 days ago |
-| [`openshift`](https://github.com/Amritmatti/openshift) | - | JavaScript | 0 | 29 days ago |
+| [`EKS-Prod`](https://github.com/Amritmatti/EKS-Prod) | - | HCL | 0 | 11 days ago |
+| [`ATS`](https://github.com/Amritmatti/ATS) | - | TypeScript | 0 | 17 days ago |
+| [`mcp`](https://github.com/Amritmatti/mcp) | - | Python | 0 | 21 days ago |
+| [`eks`](https://github.com/Amritmatti/eks) | - | HCL | 0 | 24 days ago |
+| [`k8sscratch`](https://github.com/Amritmatti/k8sscratch) | - | JavaScript | 0 | 25 days ago |
+| [`k8s-in-punjabi`](https://github.com/Amritmatti/k8s-in-punjabi) | - | HTML | 0 | 29 days ago |
+| [`video-generator`](https://github.com/Amritmatti/video-generator) | - | - | 0 | 29 days ago |
+| [`openshift`](https://github.com/Amritmatti/openshift) | - | JavaScript | 0 | 1 months ago |
 | [`linux-monitor`](https://github.com/Amritmatti/linux-monitor) | - | JavaScript | 0 | 1 months ago |
 | [`k8slearning`](https://github.com/Amritmatti/k8slearning) | - | Shell | 0 | 1 months ago |
 | [`aws-finops`](https://github.com/Amritmatti/aws-finops) | - | Python | 0 | 1 months ago |
@@ -173,7 +173,7 @@ Six pinned repos was never enough. These are the ones worth your time:
 | [`opswork`](https://github.com/Amritmatti/opswork) | - | Ruby | 0 | Aug 2021 |
 | [`testlink`](https://github.com/Amritmatti/testlink) | Conteiner do Testlink | - | 0 | Jul 2018 |
 
-<sub><b>21</b> source repositories &middot; <b>0</b> stars &middot; <b>0</b> forks &middot; last refreshed 09 Oct 2026 11:21 UTC</sub>
+<sub><b>21</b> source repositories &middot; <b>0</b> stars &middot; <b>0</b> forks &middot; last refreshed 10 Oct 2026 10:38 UTC</sub>
 <!--END_SECTION:repos-->
 
 <div align="right"><sub><a href="https://github.com/Amritmatti?tab=repositories&type=source&sort=stargazers">Browse all repositories</a></sub></div>
