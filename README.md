@@ -151,11 +151,11 @@ Six pinned repos was never enough. These are the ones worth your time:
 <!--START_SECTION:repos-->
 | Repository | Description | Language | Stars | Last Push |
 |:--|:--|:--|--:|:--|
-| [`EKS-Prod`](https://github.com/Amritmatti/EKS-Prod) | - | HCL | 0 | 12 days ago |
-| [`ATS`](https://github.com/Amritmatti/ATS) | - | TypeScript | 0 | 18 days ago |
-| [`mcp`](https://github.com/Amritmatti/mcp) | - | Python | 0 | 22 days ago |
-| [`eks`](https://github.com/Amritmatti/eks) | - | HCL | 0 | 25 days ago |
-| [`k8sscratch`](https://github.com/Amritmatti/k8sscratch) | - | JavaScript | 0 | 26 days ago |
+| [`EKS-Prod`](https://github.com/Amritmatti/EKS-Prod) | - | HCL | 0 | 13 days ago |
+| [`ATS`](https://github.com/Amritmatti/ATS) | - | TypeScript | 0 | 20 days ago |
+| [`mcp`](https://github.com/Amritmatti/mcp) | - | Python | 0 | 24 days ago |
+| [`eks`](https://github.com/Amritmatti/eks) | - | HCL | 0 | 26 days ago |
+| [`k8sscratch`](https://github.com/Amritmatti/k8sscratch) | - | JavaScript | 0 | 27 days ago |
 | [`k8s-in-punjabi`](https://github.com/Amritmatti/k8s-in-punjabi) | - | HTML | 0 | 1 months ago |
 | [`video-generator`](https://github.com/Amritmatti/video-generator) | - | - | 0 | 1 months ago |
 | [`openshift`](https://github.com/Amritmatti/openshift) | - | JavaScript | 0 | 1 months ago |
@@ -173,7 +173,7 @@ Six pinned repos was never enough. These are the ones worth your time:
 | [`opswork`](https://github.com/Amritmatti/opswork) | - | Ruby | 0 | Aug 2021 |
 | [`testlink`](https://github.com/Amritmatti/testlink) | Conteiner do Testlink | - | 0 | Jul 2018 |
 
-<sub><b>21</b> source repositories &middot; <b>0</b> stars &middot; <b>0</b> forks &middot; last refreshed 11 Oct 2026 10:51 UTC</sub>
+<sub><b>21</b> source repositories &middot; <b>0</b> stars &middot; <b>0</b> forks &middot; last refreshed 12 Oct 2026 12:04 UTC</sub>
 <!--END_SECTION:repos-->
 
 <div align="right"><sub><a href="https://github.com/Amritmatti?tab=repositories&type=source&sort=stargazers">Browse all repositories</a></sub></div>
