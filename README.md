@@ -151,7 +151,7 @@ Six pinned repos was never enough. These are the ones worth your time:
 <!--START_SECTION:repos-->
 | Repository | Description | Language | Stars | Last Push |
 |:--|:--|:--|--:|:--|
-| [`EKS-Prod`](https://github.com/Amritmatti/EKS-Prod) | - | HCL | 0 | 27 days ago |
+| [`EKS-Prod`](https://github.com/Amritmatti/EKS-Prod) | - | HCL | 0 | 28 days ago |
 | [`ATS`](https://github.com/Amritmatti/ATS) | - | TypeScript | 0 | 1 months ago |
 | [`mcp`](https://github.com/Amritmatti/mcp) | - | Python | 0 | 1 months ago |
 | [`eks`](https://github.com/Amritmatti/eks) | - | HCL | 0 | 1 months ago |
@@ -173,7 +173,7 @@ Six pinned repos was never enough. These are the ones worth your time:
 | [`opswork`](https://github.com/Amritmatti/opswork) | - | Ruby | 0 | Aug 2021 |
 | [`testlink`](https://github.com/Amritmatti/testlink) | Conteiner do Testlink | - | 0 | Jul 2018 |
 
-<sub><b>21</b> source repositories &middot; <b>0</b> stars &middot; <b>0</b> forks &middot; last refreshed 26 Oct 2026 10:11 UTC</sub>
+<sub><b>21</b> source repositories &middot; <b>0</b> stars &middot; <b>0</b> forks &middot; last refreshed 27 Oct 2026 09:50 UTC</sub>
 <!--END_SECTION:repos-->
 
 <div align="right"><sub><a href="https://github.com/Amritmatti?tab=repositories&type=source&sort=stargazers">Browse all repositories</a></sub></div>
