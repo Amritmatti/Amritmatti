@@ -164,8 +164,8 @@ Six pinned repos was never enough. These are the ones worth your time:
 | [`aws-finops`](https://github.com/Amritmatti/aws-finops) | - | Python | 0 | 1 months ago |
 | [`docker-security-dashabord`](https://github.com/Amritmatti/docker-security-dashabord) | - | HTML | 0 | 1 months ago |
 | [`k8ssetup`](https://github.com/Amritmatti/k8ssetup) | - | Shell | 0 | 1 months ago |
-| [`keda-kafka`](https://github.com/Amritmatti/keda-kafka) | - | Shell | 0 | 1 months ago |
-| [`keda-redis`](https://github.com/Amritmatti/keda-redis) | - | Shell | 0 | 1 months ago |
+| [`keda-kafka`](https://github.com/Amritmatti/keda-kafka) | - | Shell | 0 | 2 months ago |
+| [`keda-redis`](https://github.com/Amritmatti/keda-redis) | - | Shell | 0 | 2 months ago |
 | [`cassandra`](https://github.com/Amritmatti/cassandra) | - | - | 0 | Aug 2024 |
 | [`kafka`](https://github.com/Amritmatti/kafka) | - | - | 0 | Aug 2024 |
 | [`starter-kit-starters-creek`](https://github.com/Amritmatti/starter-kit-starters-creek) | - | - | 0 | Dec 2023 |
@@ -173,7 +173,7 @@ Six pinned repos was never enough. These are the ones worth your time:
 | [`opswork`](https://github.com/Amritmatti/opswork) | - | Ruby | 0 | Aug 2021 |
 | [`testlink`](https://github.com/Amritmatti/testlink) | Conteiner do Testlink | - | 0 | Jul 2018 |
 
-<sub><b>21</b> source repositories &middot; <b>0</b> stars &middot; <b>0</b> forks &middot; last refreshed 29 Oct 2026 10:55 UTC</sub>
+<sub><b>21</b> source repositories &middot; <b>0</b> stars &middot; <b>0</b> forks &middot; last refreshed 30 Oct 2026 10:53 UTC</sub>
 <!--END_SECTION:repos-->
 
 <div align="right"><sub><a href="https://github.com/Amritmatti?tab=repositories&type=source&sort=stargazers">Browse all repositories</a></sub></div>
