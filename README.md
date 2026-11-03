@@ -160,10 +160,10 @@ Six pinned repos was never enough. These are the ones worth your time:
 | [`video-generator`](https://github.com/Amritmatti/video-generator) | - | - | 0 | 1 months ago |
 | [`openshift`](https://github.com/Amritmatti/openshift) | - | JavaScript | 0 | 1 months ago |
 | [`linux-monitor`](https://github.com/Amritmatti/linux-monitor) | - | JavaScript | 0 | 1 months ago |
-| [`k8slearning`](https://github.com/Amritmatti/k8slearning) | - | Shell | 0 | 1 months ago |
-| [`aws-finops`](https://github.com/Amritmatti/aws-finops) | - | Python | 0 | 1 months ago |
-| [`docker-security-dashabord`](https://github.com/Amritmatti/docker-security-dashabord) | - | HTML | 0 | 1 months ago |
-| [`k8ssetup`](https://github.com/Amritmatti/k8ssetup) | - | Shell | 0 | 1 months ago |
+| [`k8slearning`](https://github.com/Amritmatti/k8slearning) | - | Shell | 0 | 2 months ago |
+| [`aws-finops`](https://github.com/Amritmatti/aws-finops) | - | Python | 0 | 2 months ago |
+| [`docker-security-dashabord`](https://github.com/Amritmatti/docker-security-dashabord) | - | HTML | 0 | 2 months ago |
+| [`k8ssetup`](https://github.com/Amritmatti/k8ssetup) | - | Shell | 0 | 2 months ago |
 | [`keda-kafka`](https://github.com/Amritmatti/keda-kafka) | - | Shell | 0 | 2 months ago |
 | [`keda-redis`](https://github.com/Amritmatti/keda-redis) | - | Shell | 0 | 2 months ago |
 | [`cassandra`](https://github.com/Amritmatti/cassandra) | - | - | 0 | Aug 2024 |
@@ -173,7 +173,7 @@ Six pinned repos was never enough. These are the ones worth your time:
 | [`opswork`](https://github.com/Amritmatti/opswork) | - | Ruby | 0 | Aug 2021 |
 | [`testlink`](https://github.com/Amritmatti/testlink) | Conteiner do Testlink | - | 0 | Jul 2018 |
 
-<sub><b>21</b> source repositories &middot; <b>0</b> stars &middot; <b>0</b> forks &middot; last refreshed 02 Nov 2026 12:30 UTC</sub>
+<sub><b>21</b> source repositories &middot; <b>0</b> stars &middot; <b>0</b> forks &middot; last refreshed 03 Nov 2026 11:58 UTC</sub>
 <!--END_SECTION:repos-->
 
 <div align="right"><sub><a href="https://github.com/Amritmatti?tab=repositories&type=source&sort=stargazers">Browse all repositories</a></sub></div>
