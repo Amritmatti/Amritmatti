@@ -158,7 +158,7 @@ Six pinned repos was never enough. These are the ones worth your time:
 | [`k8sscratch`](https://github.com/Amritmatti/k8sscratch) | - | JavaScript | 0 | 1 months ago |
 | [`k8s-in-punjabi`](https://github.com/Amritmatti/k8s-in-punjabi) | - | HTML | 0 | 1 months ago |
 | [`video-generator`](https://github.com/Amritmatti/video-generator) | - | - | 0 | 1 months ago |
-| [`openshift`](https://github.com/Amritmatti/openshift) | - | JavaScript | 0 | 1 months ago |
+| [`openshift`](https://github.com/Amritmatti/openshift) | - | JavaScript | 0 | 2 months ago |
 | [`linux-monitor`](https://github.com/Amritmatti/linux-monitor) | - | JavaScript | 0 | 2 months ago |
 | [`k8slearning`](https://github.com/Amritmatti/k8slearning) | - | Shell | 0 | 2 months ago |
 | [`aws-finops`](https://github.com/Amritmatti/aws-finops) | - | Python | 0 | 2 months ago |
@@ -173,7 +173,7 @@ Six pinned repos was never enough. These are the ones worth your time:
 | [`opswork`](https://github.com/Amritmatti/opswork) | - | Ruby | 0 | Aug 2021 |
 | [`testlink`](https://github.com/Amritmatti/testlink) | Conteiner do Testlink | - | 0 | Jul 2018 |
 
-<sub><b>21</b> source repositories &middot; <b>0</b> stars &middot; <b>0</b> forks &middot; last refreshed 08 Nov 2026 11:19 UTC</sub>
+<sub><b>21</b> source repositories &middot; <b>0</b> stars &middot; <b>0</b> forks &middot; last refreshed 09 Nov 2026 12:56 UTC</sub>
 <!--END_SECTION:repos-->
 
 <div align="right"><sub><a href="https://github.com/Amritmatti?tab=repositories&type=source&sort=stargazers">Browse all repositories</a></sub></div>
